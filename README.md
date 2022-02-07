@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zpmnkl
 - 👀 I’m interested in AI and Application architecture
-- 🌱 I’m currently learning C# Xamarin Applications
+- 🌱 I'm currently learning about fullstack ( rails & Vanilla Js )
 - 💞️ I’m looking to collaborate on any tools to improve efficiency
 - 📫 How to reach me laurence.qi@outlook.com
 
